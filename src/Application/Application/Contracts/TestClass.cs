@@ -1,4 +1,4 @@
-﻿namespace Application
+﻿namespace Application.Contracts
 {
     public class TestClass
     {
