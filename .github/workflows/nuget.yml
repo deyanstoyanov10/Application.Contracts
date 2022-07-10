@@ -6,7 +6,7 @@ on:
       - "v*"
     branches:
       - "main"
-      
+
 env:
   PROJECT_PATH: 'src/Application/Application/Application.csproj'
   PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
