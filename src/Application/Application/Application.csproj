@@ -7,4 +7,8 @@
 	  <RepositoryUrl>https://github.com/deyanstoyanov10/Application.Contracts</RepositoryUrl>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MediatR.Contracts" Version="1.0.1" />
+  </ItemGroup>
+
 </Project>
