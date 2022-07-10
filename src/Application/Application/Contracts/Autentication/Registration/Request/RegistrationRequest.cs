@@ -1,7 +1,6 @@
 ﻿namespace Application.Contracts.Autentication.Registration.Request
 {
     using MediatR;
-
     using Response;
 
     public class RegistrationRequest : IRequest<RegistrationResponse>
