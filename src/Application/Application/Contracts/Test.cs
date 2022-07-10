@@ -8,6 +8,6 @@ namespace Application.Contracts
 {
     internal class Test
     {
-        public int Test { get; set; }
+        public int Test1 { get; set; }
     }
 }
