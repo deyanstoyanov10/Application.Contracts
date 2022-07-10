@@ -9,7 +9,7 @@ on:
 
 env:
   PROJECT_PATH: 'src/Application/Application/Application.csproj'
-  PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}\output
+  PACKAGE_OUTPUT_DIRECTORY: ${{ github.workspace }}/output
   NUGET_SOURCE_URL: 'https://nuget.pkg.github.com/deyanstoyanov10/index.json'
 
 jobs:
